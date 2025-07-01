@@ -1,0 +1,2 @@
+# SpeedhubV2
+Yes
